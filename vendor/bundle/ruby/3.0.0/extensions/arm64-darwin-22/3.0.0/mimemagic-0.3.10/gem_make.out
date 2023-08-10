@@ -1,0 +1,3 @@
+current directory: /Users/yamadahiroyuki/sample2/vendor/bundle/ruby/3.0.0/gems/mimemagic-0.3.10/ext/mimemagic
+/Users/yamadahiroyuki/.rbenv/versions/3.0.1/bin/ruby -I/Users/yamadahiroyuki/.rbenv/versions/3.0.1/lib/ruby/3.0.0 -rrubygems /Users/yamadahiroyuki/sample2/vendor/bundle/ruby/3.0.0/gems/rake-13.0.6/exe/rake RUBYARCHDIR\=/Users/yamadahiroyuki/sample2/vendor/bundle/ruby/3.0.0/extensions/arm64-darwin-22/3.0.0/mimemagic-0.3.10 RUBYLIBDIR\=/Users/yamadahiroyuki/sample2/vendor/bundle/ruby/3.0.0/extensions/arm64-darwin-22/3.0.0/mimemagic-0.3.10
+mkdir -p /Users/yamadahiroyuki/sample2/vendor/bundle/ruby/3.0.0/extensions/arm64-darwin-22/3.0.0/mimemagic-0.3.10/mimemagic
